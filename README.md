@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # First break prediction using convolutional neural networks
 
 [Barbosa, R.D](http://lattes.cnpq.br/3378048344015204), [Cerqueira, A.G](http://lattes.cnpq.br/4993793853330521),[Souza, W.E]( http://lattes.cnpq.br/2250287053898908),[Porsani, M.J]( http://lattes.cnpq.br/1428637808064409)
@@ -22,7 +23,7 @@ This work were presented on 18th International Congress of the Brazilian Geophys
 ---
 ## 📦 Dataset
 
-To download the training, testing data and dataset to predict, run the following commands in the terminal:
+To download the training, testing data and dataset to predict, run the following commands in the Linux terminal:
 
 ```bash
 # Download the files: 
@@ -31,6 +32,8 @@ wget https://zenodo.org/records/16764353/files/dataset.zip
 # Unzip the data:
 unzip dataset.zip 
 ```
+
+or just enter on this [link](https://zenodo.org/records/16764353/files/dataset.zip) and download it.
 
 ---
 
@@ -62,7 +65,7 @@ conda env create -f environment.yml
 conda activate cnn_first_break
 
 # Run the command
-pip install .
+pip install -e .
 ```
 ---
 ## 🧠 Preprocessing
@@ -102,3 +105,7 @@ The DiceCELoss is a composite loss function commonly used in segmentation tasks,
 ![loss](/figures/loss.png)
 
 ---
+=======
+# CNN_First_Break_Picking
+Seismic first break picking using U-Net convolutional neural network
+>>>>>>> ab76be7b1ccf1389affc416e7eb7429ccf69f546
