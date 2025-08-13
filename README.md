@@ -105,7 +105,7 @@ The DiceCELoss is a composite loss function commonly used in segmentation tasks,
 ![loss](/figures/loss.png)
 
 ---
-=======
-# CNN_First_Break_Picking
-Seismic first break picking using U-Net convolutional neural network
->>>>>>> ab76be7b1ccf1389affc416e7eb7429ccf69f546
+
+
+
+
