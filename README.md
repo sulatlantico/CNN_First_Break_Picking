@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # First break prediction using convolutional neural networks
 
 [Barbosa, R.D](http://lattes.cnpq.br/3378048344015204), [Cerqueira, A.G](http://lattes.cnpq.br/4993793853330521),[Souza, W.E]( http://lattes.cnpq.br/2250287053898908),[Porsani, M.J]( http://lattes.cnpq.br/1428637808064409)
